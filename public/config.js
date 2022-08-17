@@ -1,15 +1,15 @@
 window.Config = {
 
     // 显示标题
-    SiteName: '我的站点状态',
+    SiteName: 'My Website Status',
 
     // UptimeRobot Api Keys
     // 支持 Monitor-Specific 和 Read-Only
     ApiKeys: [
         'm792364778-a84f1a11c140849c053ab2f5',
         'm792398334-f30d543b49ffb5f431a2cdc1',
-        'm792415886-40f4b72b4a0a952f0233bfc0',
-        'm792416006-3bc6a23642082e37d5cabc4f',
+        'm792489133-6ee0c839ca07daa5616ffea7',
+        'm792489114-daa138d563ecb7d8b87fffed',
     ],
 
     // 日志天数
@@ -24,8 +24,8 @@ window.Config = {
             url: 'https://panghai.top/'
         },
         {
-            text: 'Gitee',
-            url: 'https://gitee.com/pgh1038/pgh1038'
+            text: 'GitHub',
+            url: 'https://github.com/flow2000/'
         },
         {
             text: 'Blog',
