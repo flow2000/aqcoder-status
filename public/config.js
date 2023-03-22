@@ -8,7 +8,6 @@ window.Config = {
     ApiKeys: [
         'm792364778-a5f7fa68ae40e993da431dc0',
         'm792398334-ec991683e9816cf47a4292e2',
-        'm792489133-6ee0c839ca07daa5616ffea7',
         'm792489114-daa138d563ecb7d8b87fffed',
         'm792956494-4c128ee201ef90610671a372',
         'm792956493-9c2255aa3d0263fb1517d951',
