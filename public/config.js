@@ -6,13 +6,13 @@ window.Config = {
     // UptimeRobot Api Keys
     // 支持 Monitor-Specific 和 Read-Only
     ApiKeys: [
-        'm792364778-a5f7fa68ae40e993da431dc0',
-        'm792398334-ec991683e9816cf47a4292e2',
-        'm792489114-daa138d563ecb7d8b87fffed',
-        'm792956494-4c128ee201ef90610671a372',
         'm793329230-7fbb9743316c6d8907182821',
+        'm792956494-4c128ee201ef90610671a372',
         'm792956489-bcb54f7b43e64e169dd23422',
+        'm792956495-80a18b9e94bbbd155701a64b',
         'm792956486-d70c9be364dfa5881575cc2c',
+        'm792489114-daa138d563ecb7d8b87fffed',
+        'm792398334-ec991683e9816cf47a4292e2',
     ],
 
     // 日志天数
@@ -24,7 +24,7 @@ window.Config = {
     // 导航栏菜单
     Navi: [{
             text: '主页',
-            url: 'https://panghai.top/'
+            url: 'https://aqcoder.cn/'
         },
         {
             text: 'GitHub',
@@ -32,7 +32,7 @@ window.Config = {
         },
         {
             text: '博客',
-            url: 'https://blog.panghai.top/'
+            url: 'https://blog.aqcoder.cn/'
         },
     ],
 };
